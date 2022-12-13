@@ -1,0 +1,395 @@
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Client.StaticWebAssets.xml
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.StaticWebAssets.xml
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.exe
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.deps.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.runtimeconfig.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.runtimeconfig.dev.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.Views.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Server.Views.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityServer4.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\LinqKit.Core.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\TabBlazor.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Shared.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Client.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\bin\Debug\net5.0\CW.Shared.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.csproj.AssemblyReference.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.AssemblyInfoInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.AssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.RazorAssemblyInfo.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.RazorAssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\scopedcss\bundle\CW.Server.styles.css
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\staticwebassets\CW.Server.StaticWebAssets.Manifest.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\staticwebassets\CW.Server.StaticWebAssets.xml
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.TagHelpers.input.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.TagHelpers.output.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.RazorCoreGenerate.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.RazorTargetAssemblyInfo.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.RazorTargetAssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.Views.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.csproj.CopyComplete
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\refint\CW.Server.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\CW.Server.genruntimeconfig.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Server\obj\Debug\net5.0\ref\CW.Server.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\refint\CW.Server.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Client.StaticWebAssets.xml
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\appsettings.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.StaticWebAssets.xml
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.exe
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.deps.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.runtimeconfig.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.runtimeconfig.dev.json
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.Views.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Server.Views.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityModel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityServer4.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityServer4.EntityFramework.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityServer4.EntityFramework.Storage.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\IdentityServer4.Storage.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\LinqKit.Core.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\TabBlazor.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Client.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\bin\Debug\net5.0\CW.Shared.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.AssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.RazorAssemblyInfo.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.RazorAssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\scopedcss\bundle\CW.Server.styles.css
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\CW.Server.StaticWebAssets.Manifest.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\CW.Server.StaticWebAssets.Pack.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\msbuild.CW.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\msbuild.build.CW.Server.props
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CW.Server.props
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CW.Server.props
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\staticwebassets\CW.Server.StaticWebAssets.xml
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.TagHelpers.input.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.TagHelpers.output.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.RazorCoreGenerate.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.RazorTargetAssemblyInfo.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.RazorTargetAssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.Views.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.csproj.CopyComplete
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\CW.Server.genruntimeconfig.cache
+D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\ref\CW.Server.dll

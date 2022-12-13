@@ -1,0 +1,47 @@
+﻿@using CW.Client.Resources
+@inherits LayoutComponentBase
+
+<div class="page" style="background-color: #e5ece4;">
+
+    <main>
+        <nav style="background-color: #f1f1f1" class="px-4 h-50 navbar navbar-expand-md">
+            <div class="container-lg">
+                <a class="navbar-brand" href="/">
+                    <img src="/logo.png" class="my-3 mx-2">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link link-success" style="font-size: 18px;" href="/">Поиск работ</a>
+                        </li>
+                        <AuthorizeView>
+                            <Authorized>
+                                <li class="nav-item">
+                                    <div class="d-flex ms-3" style="width:200px;">
+                                        <div class="d-flex align-items-center">
+                                            <Icon Elements="@Icons.User"/>
+                                        </div>
+                                        <a class="nav-link link-success" style="font-size: 18px;" href="/profile">@context.User.Identity!.Name</a>
+                                    </div>
+                                </li>
+                            </Authorized>
+                            <NotAuthorized>
+                                <li class="nav-item">
+                                    <a class="nav-link link-success" style="font-size: 18px;" href="/identity/account/login">Войти</a>
+                                </li>
+                            </NotAuthorized>
+                        </AuthorizeView>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="container-lg">
+            <article class="content px-lg-4 py-3">
+                @Body
+            </article>
+        </div>
+    </main>
+</div>

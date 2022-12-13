@@ -1,0 +1,9 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\VisualStudio\Ficbook\CW\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Projects\VisualStudio\Ficbook\CW\Server\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/Identity" Path="C:\Users\Gerbort\.nuget\packages\microsoft.aspnetcore.identity.ui\5.0.0\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/Microsoft.AspNetCore.Components.WebAssembly.Authentication" Path="C:\Users\Gerbort\.nuget\packages\microsoft.aspnetcore.components.webassembly.authentication\5.0.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/TabBlazor" Path="C:\Users\Gerbort\.nuget\packages\tabblazor\0.5.4-alpha\build\..\staticwebassets\" />
+</StaticWebAssets>

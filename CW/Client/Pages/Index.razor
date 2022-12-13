@@ -1,0 +1,76 @@
+﻿@page "/"
+@using CW.Client.Components
+@using CW.Shared.Model
+@using TabBlazor
+@inject HttpClient Http
+
+<div class="my-lg-2">
+    <Card class="py-2 px-3 mx-0 mx-lg-2">
+        <p class="header text-center h1 text-success">Добро пожаловать в Книгу Фанфиков ДВГУПС!</p>
+        <p class="text-center">Здесь вы найдете истории от студентов и про студентов нашего лучшего на свете университета</p>
+    </Card>
+</div>
+
+<div class="my-2">
+    <Card class="py-2 px-3 mx-0 mx-lg-2">
+        <h3>Поиск по работам</h3>
+        <EditForm Model="this" OnValidSubmit="OnSearchSubmitAsync">
+            <DataAnnotationsValidator />
+            <div class="row">
+                <div class="col-md-6 col-lg-6">
+                    <label class="form-label">Название</label>
+                    <input type="text" class="form-control mb-2" @bind-value="TitlePart" />
+                </div>
+                <div class="col-md-6 col-lg-6">
+                    <label class="form-label">Жанры</label>
+                    <input type="text" class="form-control mb-2" @bind-value="Genres" />
+                </div>
+            </div>
+            <div class="d-flex justify-content-center">
+                <input type="submit" class="form-control btn btn-light my-2 py-2" style="font-size: 18px; color: #232323" value="Найти" />
+            </div>
+        </EditForm>
+    </Card>
+</div>
+@if (searchResults != null) {
+    <div class="my-2">
+        <Card class="py-3 px-3 mx-0 mx-lg-2">
+            <p class="h3 mb-3 mx-2">Результаты поиска</p>
+            @foreach (var writing in searchResults) {
+                <WritingInfo Writing="writing" />
+            }
+        </Card>
+    </div>
+}
+
+@code {
+    private Writing[] searchResults { get; set; }
+
+    private string Genres { get; set; }
+    private string TitlePart { get; set; }
+
+    private async Task OnSearchSubmitAsync() {
+        string request = null;
+        if (Genres != null && Genres != "") {
+            request += "genres=" + Genres + "&";
+        }
+        if (TitlePart != null && TitlePart != "") {
+            request += "title=" + TitlePart + "&";
+        }
+        if (request != null) request = "?" + request.TrimEnd('&');
+        try {
+            searchResults = await Http.GetFromJsonAsync<Writing[]>("api/search" + request);
+        } catch (HttpRequestException) {
+            searchResults = Array.Empty<Writing>();
+        }
+    }
+
+    protected async override Task OnInitializedAsync() {
+        try {
+            searchResults = await Http.GetFromJsonAsync<Writing[]>("api/search");
+        } catch (HttpRequestException) {
+            searchResults = Array.Empty<Writing>();
+        }
+    }
+
+}

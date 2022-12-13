@@ -1,0 +1,69 @@
+﻿@page "/profile"
+@inject NavigationManager NavManager
+@inject HttpClient Http
+@using CW.Client.Components
+@using CW.Client.Resources
+@using CW.Shared.Model
+@using Microsoft.AspNetCore.WebUtilities
+@using CW.Client.Utils
+
+<AuthorizeView>
+    <Card class="px-3 py-2">
+        <div class="d-flex">
+
+            <Icon Size="128" Elements="@Icons.User" Color="#888888"/>
+            <div>
+                <p class="h1 mt-3 ms-2">
+                    Автор @Username
+                </p>
+                @if (isSelf) {
+                    <Button BackgroundColor="TablerColor.Success" class="mx-2" @onclick="OnEditClick">Добавить рассказ</Button>
+                }
+            </div>
+        </div>
+        <div class="mx-2 my-3">
+            @if (Writings == null || !Writings.Any()) {
+                <p class="h3">У автора нет работ</p>
+            } else {
+                foreach (var writing in Writings) {
+                    <WritingInfo Writing="writing" IsEditable="isSelf" OnDelete="OnDeleteWriting"/>
+                }
+            }
+        </div>
+    </Card>
+</AuthorizeView>
+
+@code {
+    public string Username;
+
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; }
+
+    private bool isSelf = false;
+
+    public Writing[] Writings;
+
+    private void OnEditClick() {
+        NavManager.NavigateTo("/edit/new");
+    }
+
+    private void OnDeleteWriting(Writing writing) {
+        var lst = Writings.ToList();
+        lst.Remove(writing);
+        Writings = lst.ToArray();
+        StateHasChanged();
+    }
+
+    protected override async Task OnInitializedAsync() {
+        var authState = await authenticationStateTask;
+        var user = authState.User;
+        NavManager.TryGetQueryParameter("username", out Username);
+        if (Username == null) {
+            Username = (await authenticationStateTask).User.Identity.Name;
+            isSelf = true;
+        }
+
+        Writings = await Http.GetFromJsonAsync<Writing[]>("api/byauthor?author=" + Username);
+    }
+
+}

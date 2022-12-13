@@ -1,0 +1,43 @@
+﻿@page "/writing"
+@using CW.Client.Utils
+@using CW.Shared.Model
+@inject NavigationManager NavManager
+@inject HttpClient Http
+
+<div class="my-2">
+    <Card class="py-3 px-3 mx-0 mx-lg-2">
+        <div class="my-2 mx-3">
+            <p class="h2 mb-3 mt-1">@writing.Title</p>
+            <div style="font-size: 16px">
+                <Card StatusStart="TablerColor.Success">
+                    <p class="mb-3 mt-2 mx-2">
+                        <span class="fw-bold">Автор: </span><a href="/profile?username=@writing.Author" class="text-success">@writing.Author</a><br />
+                        <span class="fw-bold">Жанры: </span>@writing.Genres<br />
+                        <span class="fw-bold">Персонажи: </span>@writing.Characters
+                    </p>
+                    <p class="mb-3 mt-2 mx-2" style="line-height: 1.8;">
+                        <span class="fw-bold">Описание: </span>@writing.Description
+                    </p>
+                </Card>
+                <div class="mt-4">
+                    @foreach (var p in pars) {
+                        <p class="mb-3" style="text-indent: 30px; line-height: 1.8;">@p</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </Card>
+</div>
+
+@code {
+
+    private Writing writing = new Writing();
+    private string[] pars = Array.Empty<string>();
+
+    protected override async Task OnInitializedAsync() {
+        NavManager.TryGetQueryParameter("id", out string id);
+        writing = (await Http.GetFromJsonAsync<Writing[]>("api/getwriting?id=" + id))[0];
+        pars = writing.Text.Split("\n");
+    }
+
+}

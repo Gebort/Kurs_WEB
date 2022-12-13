@@ -1,0 +1,1339 @@
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\CW.Client.StaticWebAssets.xml
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\CW.Client.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Client.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\LinqKit.Core.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\TabBlazor.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.dll.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\LinqKit.Core.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\TabBlazor.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.csproj.AssemblyReference.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.AssemblyInfoInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.AssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.RazorComponent.input.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Components\LoginChecker.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Components\WritingInfo.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\EditWritingPage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\UserProfilePage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\WritingPage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\CustomLoggedOut.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.RazorComponent.output.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\RazorDeclaration\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.TagHelpers.input.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.TagHelpers.output.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.RazorCoreGenerate.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Components\LoginChecker.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Components\WritingInfo.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Pages\EditWritingPage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Pages\UserProfilePage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Pages\WritingPage.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Shared\CustomLoggedOut.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\7R6oRBWW.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\J2ZpAHuy.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\0zu2Z26k.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+w+pRuC0.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Gp+Q+XPi.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\zHQ0UmhL.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\l+IHmyRK.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\2yVO3dd+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\07KcqMO+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\INjcn8B3.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\NHPo2jxe.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\ypuCMi5Q.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\RA7DSoxh.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\g2hshzbE.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\F5NFLrhd.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\joChq8YP.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\gNJhXnNI.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\SUAFCj4J.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\MWK52i+m.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\yEjlH6Vq.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\rp2T8bFL.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\rDvhebDm.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\1tlR4KcP.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\cNUx7xqa.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+gxFw6Ep.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\4MnABEyx.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\E69jQC6y.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\7MbH4QSc.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\jWc4MFvJ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\gO+3ktRD.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\NXhh01AO.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\GMXg6zlJ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\9MM+dt40.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\9yPa9Jyt.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\M+RL3aoW.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\UoVSuC5c.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\FjhSrHEY.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\TJs1b+KH.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\E+hMzzW0.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\WB9fuQvJ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Jk6TEumI.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\KM839zbZ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\12hAGvIX.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\B0IKAX4t.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\swVQWzKu.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\R21WgFyV.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\MYgL0j8D.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\76tOZu8Y.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\8x8L6nn+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\45SJiEDl.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\eDc6jVwV.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\LrwmnTIP.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+qU8sLuM.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\uI+PjqvP.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\EKEvVXID.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\5Lu1HSQJ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\kU77+3Fz.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\u6lBsGAL.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\4GSYuZ+5.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\piL+WJ1d.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\j6DfgqwY.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\EuZr+ee9.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\4qXliFXw.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\YSUxsCZE.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\w29+hv+5.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\yw5P+EqI.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\At1kWAEA.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\TaUvMVV7.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\LrZSCtB9.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\XkVRW+vz.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\QVPFWCrD.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\RaK39WTV.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\JCaQyhqB.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\VlxHUqUE.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\EYLqP9uz.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\k1lPxPg7.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\iiM73tSX.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\bZDPmPIx.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\DOwB5f7a.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\DoaAxH5w.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+A4D4hp3.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\AdHHCIlb.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\TFr8NiSi.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Aj+SxrTv.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\7Zh6hRgt.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\20xZIR5V.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\RBh4z7Bj.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\BH662JMQ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\kySTvCAd.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\xzYEeIBO.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\WLF7ffVh.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\bKhE+wKB.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\DAQl48+P.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\tcFz8hri.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\6Z06KkTZ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\CXGeRDJF.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\hbHuYfLi.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\rq0BwLnj.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\tKC33iuj.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\X1GzF8VC.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\QudOWy4C.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\ABxWiO6b.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\MfChehDG.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Ifkafz9W.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\RPPSwtma.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\zZWSfmh+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Un1UYc0k.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\n3mqlkGl.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\lH+LGUqd.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\8qZjVuUA.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\DTRKVml4.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\j1fuxxwO.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\QZjxAz+O.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\63DEArOc.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\2IfQ6Iaz.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\J9n0kjtf.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\1an21Ucr.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\QhgSymLN.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\kDFvhRQS.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\nnX9iNIs.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+FIm83+i.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\YYV8AIE2.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\jVLP+BBx.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\7X4TvCA+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\HmvVDXGI.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\W7Nv80Jd.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\ycHBhF3a.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\jWAFe9W5.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\3DEjUt55.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\24I365HB.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\SlGAPOUL.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\SJW+8rkC.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\G2KF6vhD.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\AIQE1pNA.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\sPAdRZqT.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\N421nl+q.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\uG4yAR1+.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\H5NIhKCW.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\QIPTKp28.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\firxezAL.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\JfMheSQd.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\dnzi+I9X.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\NnCGR7mA.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\blpp9uIZ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\6i3086RG.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\pkeKZj92.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\lYA5xuAr.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\VlrtKA5y.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\2G83M55L.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\5CaoHH+N.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\mNWMjXU4.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\shDjW7mR.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\yh+sdif6.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\LA1DmpiC.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\WKJFmM16.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\hge8q4pw.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\fkpb3QbM.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\AFhb9KRs.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\8ErpQJs8.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\SNwe2Uo6.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\LUQRVvES.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Fj9TxDeS.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\8qZwnLKi.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\q++qjb5E.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\hVefErsZ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\0qsq3sxE.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Z+nivY0Q.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\notqCBGz.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\ae+iMlCB.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Bj4i9HYU.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\jl8kmQRs.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\MGDa+Rge.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\OdWUYMOK.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\4f+VOMe2.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\VAqmrTgV.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\UWF+udX2.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\eDFFLb7H.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\m7+1E7sA.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\8dXbNuGr.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\SRLxXsSo.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\B7Fi1FwV.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\MBTPT92L.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\rIz3uJ0T.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\g6wjVwSa.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\NvE1C5Dm.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\nwsuS1QF.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\Zbxv1vAe.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\nAh+JeD8.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\ZpQRIx9s.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\dzvzcpeb.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\LPsKtJ+I.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\1RTSPvV6.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\CN7y0Ecp.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\I1ZfEQqJ.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\xL+vh96P.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\0FA+pS3G.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\cNaGKkV1.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\HXU+XEgw.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\6HgV4Yb0.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\IEwg6Mvp.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\+TXsFY5w.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\hvyFSENh.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\1oMx+Y6W.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\build-gz\qeJrU8uF.gz
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\scopedcss\bundle\CW.Client.styles.css
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\scopedcss\projectbundle\CW.Client.bundle.scp.css
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\staticwebassets\CW.Client.StaticWebAssets.Manifest.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\staticwebassets\CW.Client.StaticWebAssets.xml
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.csproj.CopyComplete
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\refint\CW.Client.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\CW.Client.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Client\obj\Debug\net5.0\ref\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\refint\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\CW.Client.StaticWebAssets.xml
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\CW.Client.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Client.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\LinqKit.Core.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\TabBlazor.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.dll.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\LinqKit.Core.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\TabBlazor.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\bin\Debug\net5.0\wwwroot\_framework\CW.Shared.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.AssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.RazorComponent.input.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Components\LoginChecker.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Components\WritingInfo.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\EditWritingPage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\UserProfilePage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Pages\WritingPage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\CustomLoggedOut.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.RazorComponent.output.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\RazorDeclaration\CW.Client.dll
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.TagHelpers.input.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.TagHelpers.output.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.RazorCoreGenerate.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Components\LoginChecker.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Components\WritingInfo.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Pages\EditWritingPage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Pages\UserProfilePage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Pages\WritingPage.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Shared\CustomLoggedOut.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\d7amTDcp.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\PaWUdo3W.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\4t0QNdoo.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\5MMuDWfX.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\iUmAmBfT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\NhCcU20l.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\wnvdyaXD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\EbP8PSia.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\uam6yfff.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\t1KNuD0i.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\7Fu2IemQ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\tFcNychg.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\WDtSgOEJ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\k2Hc4Fgx.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\6VzigiRb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Wsp0vjKR.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\8K9ddV6b.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\jZAKaWyg.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\6pz3krHJ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\dm+tSQKv.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\gARAOGvD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\e4kSkNvr.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\fGV3fDdj.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+342T8wT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\dQ+wUl+h.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\c12Sve6C.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+C8+gCk7.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\bzMU0+pi.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\xnzm9Q6r.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\au51C6vC.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\AqQGqdnu.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\4Tkkp0C5.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\wDJN6Ut+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\JOTGpQ2d.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\RrfSnQMt.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\wQ8NNmK5.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\N4DXVV9i.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\4vSpYJ5z.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\hCfG0r6v.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\a+UMkVEK.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\8d4v0efd.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\2FsdoAIQ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+riyOYTs.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\7XAuUfwu.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\9uiCyJcq.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\AxrXenox.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\zSAZQih2.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\BVhOCpCD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\QuUpAxcj.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\W461Oiua.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\ppn+XucF.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\YqiJ9buC.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\fseOAVpD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\95CTEGQY.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\YsQFf+Di.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\ToRwDKax.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\tC9F7haT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\h2Rl5n8f.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\5ZCKfS1d.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\2lfhVRKU.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\TocvGnNK.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\xdQjNKpE.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\4cXWfQd9.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\dJr92VAH.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\GyGFJvzW.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\FgYWLKcI.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\WqVF96Ae.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\yOxu5XIl.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\yIlmbqkc.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\uKtWyTVD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\CXe2tRl7.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\igw8QcPT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\d4MY4rLe.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\lIy9fNNv.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Jjz+0Q0v.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Jk7k3886.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\XWSAmBqx.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\70yBTELd.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\DOjAIBZB.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Q+kcm+ai.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\M+MUc1DT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\BwFHXz8A.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\OgaCrh0V.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\cCtR76J7.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\PDo2ENvY.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\blqet1Sw.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Aa9RV+Ii.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\y2zDV02f.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\VMw20iJf.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\fsN+Ct+0.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\wwRU7r0B.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\7+ecGbA+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Xb3pJ+qd.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\eOlZmiJW.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\VTiiau+w.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\KUpqS+ju.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\u1uGg+lT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\VGtBmle6.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\xwTiluBO.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\QnfXIEcy.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Y5GUvBIX.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\hFctFPop.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\FH9BdTs+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\++YqQTJX.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\9IDMl6Cu.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\xRVq60bQ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\k1+LXtm+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\nm7cSEol.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\N9Yw87sP.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\amrRWxI+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\YZPpYPB5.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+x7vtGfm.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\HGb5nQUt.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\yvXxnGAE.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\si6JbnHe.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\MqeLt4Uc.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\D4W583HW.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\sK74us7T.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\5ziXl13h.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\cXBGa9D+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\e360ReTb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\tFQZ3cXv.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\hlkyTKwt.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\C24y3i0k.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\ZphQrX5p.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\pcOoGKu5.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\XJfPm+aT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\ZiBTB4xG.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\zkWwm6Gz.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\n+2l6qKm.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\fd+AUuAs.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\8EMUKlGq.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\iTZ7rnqw.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\WyZTd5Jb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\SY1ouZU1.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\noEvsqqp.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\EECk1SES.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\DqQmHNUh.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\PV4abU5r.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\AYSvURB8.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\4Zh2Kbdk.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\6voT1em4.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\E4uLCX6A.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\apGoAl0g.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\vPq+LtSx.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\jDud+L+9.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\U3+thhBB.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\l9k1+erg.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\p8C30s3p.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\7GXqbeNa.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\jxrPfiMp.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\C+KnFIYQ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\KNlvLL8h.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\mTzXof+Z.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\bFbbprNn.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\LNr09puu.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Db9lb2vD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\kvMYuPyY.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\xKnPO60+.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\H0+51p9j.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Dmoq+sPJ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Gcu4uvLN.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\NULrMIGr.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\RZh3Z+09.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\bSemTWd0.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+jibmoDR.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\px8B+RaN.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\5XyDGxV0.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\hVcrJMbA.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\0eVVuXyq.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\nxcAJQZ3.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\foad3xMM.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\3RWTXtZ8.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\GVQ5u1vg.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\uXlTFymb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\8XUyuR8q.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\vMSHXcJx.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\D9J0Zk9W.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\AZtA1Wwb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\UeRFUA+t.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\XnpVl96C.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\Q3qP2eyB.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\YVmUoo+1.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\cGPv21FV.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\7BKRJNvF.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\zJ1LNsqn.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+RNcW+bE.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\FCPPlgTF.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+Tu3sjNb.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\X6wgPeTB.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\tsgVaEcD.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\vhcvJf+d.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\msZ+D8qp.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\+GN5xYtH.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\3hC6CxAe.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\gtsLv+gT.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\u4DIABnu.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\T1EJ6FqY.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\47O6j8Tr.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\pmUgkacJ.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\g6wzljBn.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\uhcxsvKE.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\pM4x+dQC.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\build-gz\uEjCbP0O.gz
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\scopedcss\bundle\CW.Client.styles.css
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\scopedcss\projectbundle\CW.Client.bundle.scp.css
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\CW.Client.StaticWebAssets.Manifest.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\CW.Client.StaticWebAssets.Pack.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\msbuild.CW.Client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\msbuild.build.CW.Client.props
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CW.Client.props
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CW.Client.props
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\staticwebassets\CW.Client.StaticWebAssets.xml
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.RazorTargetAssemblyInfo.cache
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\CW.Client.csproj.CopyComplete
+D:\Projects\VisualStudio\Ficbook\CW\Client\obj\Debug\net5.0\ref\CW.Client.dll

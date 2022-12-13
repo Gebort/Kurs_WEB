@@ -1,0 +1,54 @@
+﻿@using CW.Shared.Model
+@using CW.Client.Resources
+@using TabBlazor.Components.Modals
+@using TabBlazor.Services
+@inject HttpClient Http
+@inject NavigationManager NavManager
+
+<Card StatusStart="TablerColor.Success">
+    <div class="my-2 mx-3">
+        <div class="d-flex mb-1">
+            <p class="h2"><a href="/writing?id=@Writing.Id">@Writing.Title</a></p>
+            @if (IsEditable) {
+                <div class="d-flex">
+                    <Button class="ms-2" BackgroundColor="TablerColor.White" OnClick="OnEditWritingClick">
+                        <Icon Color="#999999" Elements="@Icons.Clipboard_edit_outline" />
+                    </Button>
+                    <Button class="ms-2" BackgroundColor="TablerColor.White" OnClick="OnDeleteWritingClick">
+                        <Icon Color="#999999" Elements="@Icons.Delete_outline" />
+                    </Button>
+                </div>
+            }
+        </div>
+        <p class="mb-1">
+            <span class="fw-bold">Автор: </span><a href="/profile?username=@Writing.Author" class="text-success">@Writing.Author</a><br />
+            <span class="fw-bold">Жанры: </span>@Writing.Genres<br />
+            <span class="fw-bold">Персонажи: </span>@Writing.Characters
+        </p>
+        <p>
+            <span class="fw-bold">Описание: </span>@Writing.Description
+        </p>
+    </div>
+</Card>
+
+@code {
+
+    [Parameter]
+    public Writing Writing { get; set; } = null!;
+
+    [Parameter]
+    public Action<Writing> OnDelete { get; set; }
+
+    [Parameter]
+    public bool IsEditable { get; set; } = false;
+
+    private void OnEditWritingClick() {
+        NavManager.NavigateTo("/edit/" + Writing.Id.ToString());
+    }
+
+    private async Task OnDeleteWritingClick() {
+        var responce = await Http.DeleteAsync("/user/deletewriting?id=" + Writing.Id.ToString());
+        OnDelete.Invoke(Writing);
+    }
+
+}

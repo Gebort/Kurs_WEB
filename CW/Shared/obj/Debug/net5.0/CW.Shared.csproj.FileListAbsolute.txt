@@ -1,0 +1,24 @@
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\bin\Debug\net5.0\CW.Shared.deps.json
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\bin\Debug\net5.0\CW.Shared.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\bin\Debug\net5.0\CW.Shared.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.csproj.AssemblyReference.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.AssemblyInfoInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.AssemblyInfo.cs
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\refint\CW.Shared.dll
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\CW.Shared.pdb
+C:\Users\Vit\Desktop\Курсовая Вялков\CW\Shared\obj\Debug\net5.0\ref\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Shared\bin\Debug\net5.0\CW.Shared.deps.json
+D:\Projects\VisualStudio\Ficbook\CW\Shared\bin\Debug\net5.0\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Shared\bin\Debug\net5.0\CW.Shared.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.AssemblyInfo.cs
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\refint\CW.Shared.dll
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\CW.Shared.pdb
+D:\Projects\VisualStudio\Ficbook\CW\Shared\obj\Debug\net5.0\ref\CW.Shared.dll

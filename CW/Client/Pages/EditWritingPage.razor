@@ -1,0 +1,84 @@
+﻿@page "/edit/{writingid}"
+@inject HttpClient Http
+@inject NavigationManager NavManager
+@using CW.Shared.Model
+
+<AuthorizeView>
+    <Authorized>
+        @if (notFound && !isNew) {
+            <p class="h2">Рассказ не найден</p>
+        } else {
+            <Card class="px-3 py-2">
+                <p class="h2">@(isNew ? "Добавить рассказ" : "Редактировать рассказ")</p>
+                <EditForm Context="EditContext" Model="writing" OnValidSubmit="OnWritingPublishAsync">
+                    <DataAnnotationsValidator />
+                    <label class="form-label my-2">Название</label>
+                    <input type="text" @bind-value="writing.Title" class="form-control my-2" placeholder="Название рассказа" name="title" />
+                    <div class="row">
+                        <div class="col-12 col-lg-6">
+                            <label class="form-label my-2">Жанры</label>
+                            <input type="text" @bind-value="writing.Genres" class="form-control my-2" placeholder="Жанры рассказа" name="genres" />
+                        </div>
+                        <div class="col-12 col-lg-6">
+                            <label class="form-label my-2">Персонажи</label>
+                            <input type="text" @bind-value="writing.Characters" class="form-control my-2" placeholder="Участники рассказа" name="characters" />
+                        </div>
+                    </div>
+                    <label class="form-label my-2">Описание</label>
+                    <InputTextArea @bind-Value="writing.Description" rows="8" class="form-control my-2" name="content"></InputTextArea>
+                    <InputTextArea @bind-Value="writing.Text" rows="40" class="form-control my-2" name="content"></InputTextArea>
+                    <input type="submit" class="btn btn-success my-2" value="Опубликовать" />
+                </EditForm>
+            </Card>
+        }
+    </Authorized>
+    <NotAuthorized>
+        <p class="h2">Отказано в доступе. Требуется авторизация</p>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code {
+    private bool isNew;
+    private bool notFound;
+
+    [CascadingParameter]
+    private Task<AuthenticationState> authenticationStateTask { get; set; }
+
+    private async Task OnWritingPublishAsync() {
+        var authState = await authenticationStateTask;
+        var user = authState.User;
+        writing.PublishDate = DateTime.Now;
+        writing.Author = user.Identity.Name;
+        if (isNew) {
+            using (var response = await Http.PostAsJsonAsync<Writing>("user/addwriting", writing)) {
+                if (response.IsSuccessStatusCode) {
+                    var wrId = (await response.Content.ReadFromJsonAsync<Writing>()).Id;
+                    NavManager.NavigateTo("/writing?id=" + wrId.ToString());
+                }
+            }
+        } else {
+            using (var response = await Http.PatchAsync("user/editwriting", JsonContent.Create(writing))) {
+                if (response.IsSuccessStatusCode) {
+                    var wrId = (await response.Content.ReadFromJsonAsync<Writing>()).Id;
+                    NavManager.NavigateTo("/writing?id=" + wrId.ToString());
+                }
+            }
+        }
+    }
+
+    protected override async Task OnInitializedAsync() {
+        isNew = WritingId == "new";
+        if (!isNew) {
+            writing = (await Http.GetFromJsonAsync<Writing[]>("user/writing?id=" + WritingId))[0];
+            notFound = writing == null;
+        } else {
+            writing = new Writing();
+        }
+    }
+
+    [Parameter]
+    public string WritingId { get; set; }
+
+    private Writing writing;
+
+}
